@@ -15,6 +15,7 @@ https://www.zdnet.com/article/firefox-to-add-tor-browser-anti-fingerprinting-tec
 https://en.wikipedia.org/wiki/Letterboxing_(filming)
 ### Proof of concept
 [Index.html](https://github.com/a7maadf/Bypass-LetterBoxing/blob/main/index.html "Index.html")
+
 [Proof of concept video](https://vimeo.com/745627089 "Proof of concept video") // *Forgot to remove the video editing tool watermark lol*
 ### Risk
 `low - medium`
