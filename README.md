@@ -14,6 +14,10 @@ https://www.zdnet.com/article/firefox-to-add-tor-browser-anti-fingerprinting-tec
 
 https://en.wikipedia.org/wiki/Letterboxing_(filming)
 ### Proof of concept
+[Live preview (Tor)](http://bcloudwenjxgcxjh6uheyt72a5isimzgg4kv5u74jb2s22y3hzpwh6id.onion/dl/URI:CHK:u6vhgw3x2hphvclqivfxw3xswe:5ckibqwn72npperwzmaj2evplzj4z2pclrbdotrofqpnzzh35g4q:3:10:12715/index.html "Live preview (Tor)")
+
+[Live preview (Clearnet)](https://bypass_letterboxing.playcode.io/ "Live preview (Clearnet)")
+
 [Index.html](https://github.com/a7maadf/Bypass-LetterBoxing/blob/main/index.html "Index.html")
 
 [Proof of concept video](https://vimeo.com/745627089 "Proof of concept video") // *Forgot to remove the video editing tool watermark lol*
