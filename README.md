@@ -9,7 +9,9 @@ A security anti-fingerprinting technique made by Mozilla to mask the actual scre
 
 ###### More here
 https://support.torproject.org/tbb/maximized-torbrowser-window/
+
 https://www.zdnet.com/article/firefox-to-add-tor-browser-anti-fingerprinting-technique-called-letterboxing/
+
 https://en.wikipedia.org/wiki/Letterboxing_(filming)
 ### Proof of concept
 [Index.html](https://github.com/a7maadf/Bypass-LetterBoxing/blob/main/index.html "Index.html")
