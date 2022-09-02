@@ -4,6 +4,7 @@ A security anti-fingerprinting technique made by Mozilla to mask the actual scre
 > The strategy here is to put all users in a couple of buckets to make it harder to single them out. 
 
 > In simple words, this technique makes groups of users of certain screen sizes and this makes it harder to single out users on basis of screen size, as many users will have same screen size.
+
 ![](https://support.torproject.org/static/images/letterboxing.jpg)
 
 ###### More here
