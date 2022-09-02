@@ -28,4 +28,4 @@ https://en.wikipedia.org/wiki/Letterboxing_(filming)
 ### Potential fix?
 1. Disable all Javascript functions which manipulates the size of a browser's window.
 2. Disable the LetterBoxing function from standard and safer modes.
-3. Hmm, idk.
+3. Pop up a dialog asking user whether they want to enter fullscreen 
