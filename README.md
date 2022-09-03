@@ -1,3 +1,4 @@
+# [UNOFFICIAL PATCH](https://github.com/a7maadf/LetterBoxingADV)
 # Bypass-LetterBoxing
 ### What is LetterBoxing?
 A security anti-fingerprinting technique made by Mozilla to mask the actual screen dimensions of the device or browser window.
