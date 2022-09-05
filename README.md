@@ -27,6 +27,6 @@ https://en.wikipedia.org/wiki/Letterboxing_(filming)
 - Although screensize dimensions might not be the only factor that compromises a Tor user's anonymity, they are a crucial piece of data that, when combined with other details, can be used to build a user profile.
 - Because almost all other Tor users have similar screen sizes, people who fall victim to this vulnerability will be even more unique and easier to be targeted.
 ### Potential fix?
-1. Disable all Javascript functions which manipulates the size of a browser's window.
-2. Disable the LetterBoxing function from standard and safer modes.
-3. Pop up a dialog asking user whether they want to enter fullscreen 
+1. Use [LetterBoxingADV](https://addons.mozilla.org/en-US/firefox/addon/letterboxadv/), open-sourced firefox add-on made to secure this vulnerability.
+2. Disable all Javascript functions which manipulates the size of a browser's window.
+3. Disable the LetterBoxing function from standard and safer modes.
